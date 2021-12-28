@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  /* vertical-align: baseline; */
+}
+
+.container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 700px;
+  /* background-color: red; */
+}
+
+.col1 {
+  width: 70px;
+}
+
+.col2 {
+  width: 50px;
+}
+
+.col3 {
+  width: 300px;
+}
+
+table {
+  border-collapse: collapse;
+  /* border-spacing: 0; */
+}
+th {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: lightgray;
+}
+td {
+  border: 1px solid black;
+  padding: 10px;
+}

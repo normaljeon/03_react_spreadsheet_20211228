@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "angelic-backup-336008",
+  "private_key_id": "05c0249d45e814cfd927d4e0abe28fef2a935de8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtbM3hSNK+sHqt\n3Wj/fI8HcFv1ibDAH/wwNhlUXdicTRxhtSr4VnIhTXajGrUbXqnp+/SEfxKlgaZz\nSaSgpUBRBmnT8xwpW7x0SDPOvBjbY8xh4kNhYsrM26JQfWvezaemJKV/Q7WeR/j0\nLhGmouPyLgZFr12j9GMqTheS2FBZ5ch8snYrPXvzXDQeFgXAqyiMohISFHnZhGbW\nn2nT1pNGvEUJ65g5ZkHDCaNht6B7VPXMMbStTYLwW7jMNvCswbeSFJYG7Tikc3X/\nIBb3T89Q3ZE8c3rEJx+RSEOjw7tb4Vh0LlzVUeER7a7an524s2uYrg1XGd++mhkP\nQ/xo7lhRAgMBAAECggEAAelxqZqmbCDA8Xq/5hUm9IOKF/5hGvUfUB7Aj7wLH8n/\n1pnrM9qsHm7esHSia39TKzeyXeWSvI1d2uaEcJrxxxLlhscm19Phk3yaSZysP3rt\nrWSTrpaqurBvLSj8z/N/dibwRiNmdKzBc1uwqSAhmDFms0z4IM8YasZ6nw1QcXVA\n53Do9VdLjr8VMesb81HT4AFHXAnwK6FPr8WmY/ptgYKp8oPUdg36qzZcGVEaSUU1\nQHQJMGTsmaPcyn/S1uTtlcUGKgoJCu3kqwd6Phlm9qcVqG/FhXp4aZa+Thg35LMR\njZkKY+FbdjcgSzTMokZEhEO+VPKLrrBf1x9yfmCsAQKBgQDXfNseCdMUck0OvSrG\ne74WSN3xdVQQLd7CEk3exZAMtN30VnW5ullEwmWl8xjxnDEDVPXts8lUzHkk3vgy\nhbj7tGwocqjNZdHHQiGfmiO+uIEL//PZ/SxomlEXwes5J9Iosk7wk7d9eIHvWYBH\n8ClLMAO3id17YoJzZT9piUx1gQKBgQDOB4ZqpMfOEQrqNLKaAHFXxZJkh72uYqmb\nK6mJD8HWI0I/+/+1yjBXdvmgW/JEcR/dU4WaiBeU3yjCNxTP9/3B0b/WQoZLXjBw\n75xmJui4hqDLj/eU/vc1ysv7OEr1vhUe3i+BMIH/H1Mehd9vn3kEDShDfH5AIqvr\n/6ml5Ftq0QKBgQCQThyu0QV5+9F+vU+X++YgJkv7FwdkjlNOw9NCDCubVsQMjJnp\n9tExKr3HlDRwGJj6EjtfI7cAAq5d8rNjoglvBjQoIiDI7Ba/yZmauC6X2hcRYiZ7\nJQBITI9hyYssi25BsqcKlOGcNMdO8jDl+/6rS0wx7TFVH3MctADzO+7oAQKBgBsN\nN+P2wNlYuYMo6i54UmmA4ojandgw0i4ynG8Hp57TQFagYuHeq1xAneQlTnkYFWP9\nHHS+28HLT1G4472uxR3WyYZ7c6CfvGKHw5RSFYps+t3fiFWC6LiiaQgSSx1bGPDV\noY0n7lmuJj7CuySv3rbed2PtC7KmGsbA6eiDRFGRAoGAUnmwbdTbjOV2MrRIBMtw\nlNwUMVmBjD2qFCsjYeyjRPFK1ckM8mvwqhM5joBK+5DPhqMtLwapnA9itZvP9qVz\nfAJ5WVSpD4Ms3IDdJmt46AHrYPvzNWRKdBGU7twY9u0EySr+Bs4SxOVZbg0GCHA6\nbyD1dwqFjsuYbHoH0vM8mI4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testgooglespread20211225@angelic-backup-336008.iam.gserviceaccount.com",
+  "client_id": "114043770041272627182",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testgooglespread20211225%40angelic-backup-336008.iam.gserviceaccount.com"
+}

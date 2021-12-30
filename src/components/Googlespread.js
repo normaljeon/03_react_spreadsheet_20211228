@@ -15,27 +15,15 @@ const Googlespread = () => {
       await doc.loadInfo();
       //   await doc.updateProperties({ title: "renamed doc" });
 
-      const sheet = await doc.sheetsByIndex[0];
+      // await 는 필요없음
+      // const sheet = await doc.sheetsByIndex[0];
+      const sheet = doc.sheetsByIndex[0];
       const rows_ex = await sheet.getRows();
       console.log(rows_ex);
       setRows(rows_ex);
-      //   const header = sheet.gridProperties;
-      //   const header = sheet.loadHeaderRow();
-      //   const header = sheet.headerValues;
+      await doc.updateProperties({ title: "renamed doc" });
 
       // rows를 통해 header를 접근할 필요없음. json 형태로 이미 받아들임(header 행(1행)도 안읽음)
-      //   const header = await rows[0];
-      //   console.log(doc.title);
-      //   console.log(sheet.columnCount);
-      //   console.log(rows[0]);
-
-      //   for (let i = 0; i < 5; i++) {
-      //     console.log("///////////");
-      //     console.log(rows[i]);
-      //   }
-
-      //   console.log(header);
-      //   const arr = rows;
     })();
   }, []);
 
@@ -56,7 +44,7 @@ const Googlespread = () => {
                 <td>{item.상품명}</td>
                 <td>{item.가격}</td>
                 <td>
-                  <img src={item.이미지} />
+                  <img src={item.비고} />
                 </td>
               </tr>
             );
